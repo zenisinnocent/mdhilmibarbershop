@@ -1,92 +1,148 @@
-# MD HILMI Barber Shop Website
+# MD HILMI BARBER SHOP 💈
 
-A standalone HTML website for MD HILMI Barber Shop.
+A premium, modern barber shop website designed for **MD HILMI BARBER SHOP**, located in SS15, Subang Jaya, Selangor, Malaysia.
 
-## Getting started
+The website combines elegant design, smooth interactions and practical business features to provide customers with a seamless browsing and booking experience.
 
-1. Download the latest website file from this conversation.
-2. Rename `index.txt` to `index.html`. Make sure the filename does not end in `.html.txt`.
-3. Open `index.html` in a modern browser.
+## 🌐 Website Overview
 
-An internet connection is required for hosted photos, videos, fonts, and external services.
+**Business:** MD HILMI BARBER SHOP  
+**Location:** Jalan SS 15/4B, SS 15, 47500 Subang Jaya, Selangor  
+**WhatsApp:** +60 11-6933 7415  
+**Opening Hours:** Daily, 11:00 AM – 2:00 AM  
+**Currency:** Malaysian Ringgit (RM)
 
-## Included features
+## ✨ Features
 
-- White background with black primary text.
-- MH monogram logo in the header.
-- Twelve services with prices in Malaysian ringgit.
-- Photo and two muted videos in the portfolio section.
-- Click-to-view photo and video viewing.
-- Full-color portfolio media without overlaid captions.
-- WhatsApp booking requests and product ordering.
-- Instagram, Facebook, and TikTok links with logos.
-- Responsive layouts.
-- Guard guide section removed.
+### 1. Premium Website Design
+- Modern and minimalist design.
+- Elegant typography.
+- Responsive layout for mobile, tablet and desktop.
+- Smooth scrolling and transitions.
+- Premium visual presentation.
+- Custom branding and favicon.
 
-## Contact and social links
-
-- WhatsApp: 011-6933 7415
-- International WhatsApp link: https://wa.me/601169337415
-- Instagram: https://www.instagram.com/mdbarbershopss15/?hl=en
-- Facebook: https://www.facebook.com/my.daring.saloon/
-- TikTok: https://www.tiktok.com/@mdbarberss
-
-## Services and prices
+### 2. Services & Pricing
+Displays available barber services with descriptions and prices.
 
 | Service | Price |
-| --- | --- |
-| Hair Dry Cut | RM 30 |
-| Cut and Wash | RM 40 |
-| Cut, Wash & Shave | RM 50 |
-| Facial | RM 50–150 |
-| Facial Wax with Ears | RM 40 |
-| Shave | RM 25 |
-| Beard Design & Trim | RM 25 |
-| Black Colour | RM 70 |
-| Hair Colour | RM 100–200 |
-| Silver Colour | RM 300 |
-| Rebonding | RM 100–250 |
-| Hair Perm | RM 200–250 |
+|---|---:|
+| Hair Dry Cut | RM30 |
+| Cut and Wash | RM40 |
+| Cut, Wash & Shave | RM50 |
+| Facial | RM50–150 |
+| Facial Wax with Ears | RM40 |
+| Shave | RM25 |
+| Beard Design & Trim | RM25 |
+| Black Colour | RM70 |
+| Hair Colour | RM100–200 |
+| Silver Colour | RM300 |
+| Rebonding | RM100–250 |
+| Hair Perm | RM200–250 |
 
-## WhatsApp bookings and orders
+### 3. Appointment Booking System
+Customers can request appointments directly through WhatsApp.
 
-Booking requests open WhatsApp with the visitor’s details prepared. The visitor must press Send in WhatsApp; the shop confirms availability there.
+Booking features:
+- Customer name input.
+- WhatsApp number input.
+- Service selection.
+- Preferred appointment date.
+- Preferred appointment time.
+- Automatic WhatsApp booking message generation.
 
-Product orders are prepared from the cart and sent through WhatsApp. Payment and collection are handled in store. This website does not provide online payment processing or automatic appointment confirmation.
+Customers submit their booking request through WhatsApp, where the shop confirms the appointment.
 
-## Updating the website
+### 4. Product Shop
+An integrated product section that allows customers to:
+- Browse available products.
+- Add products to their cart.
+- View cart contents.
+- Calculate their order total.
+- Send product orders through WhatsApp.
 
-Open `index.html` in a text editor and locate the `CONFIG` settings. These include the shop name, WhatsApp number, contact details, social links, services, products, and gallery media.
+Payment and collection are arranged in-store.
 
-Keep the WhatsApp number in international format with digits only: `601169337415`.
+### 5. Portfolio / Gallery
+A dedicated section showcasing barber work, including:
+- Haircuts.
+- Skin fades.
+- Beard designs.
+- Different hairstyles.
 
-The shop address, opening hours, review links, and product prices have not been supplied. Add accurate details before launch. Products without prices display “Ask in store”.
+### 6. Google Reviews
+- Customer review section.
+- Google Maps review integration.
+- Existing customer feedback.
+- Links to the Google Maps business listing.
 
-## Media
+### 7. Business Information
+- Shop address.
+- Opening hours.
+- WhatsApp contact.
+- Google Maps integration.
+- Social media links.
 
-The photo and videos use externally hosted URLs rather than local files. Videos are configured for muted playback, including the expanded viewer. Browser autoplay restrictions or reduced-motion settings may affect autoplay.
+### 8. Social Media Integration
+Connects customers to the shop's social platforms:
 
-If you move media to your own hosting, update the corresponding gallery URLs.
+- Instagram: https://www.instagram.com/mdbarbershopss15/
+- TikTok: https://www.tiktok.com/@mdbarberss
+- Facebook: https://www.facebook.com/my.daring.saloon/
 
-## Publishing
+## 🛠️ Technologies Used
 
-Upload `index.html` to a static website host. Keep any locally added assets alongside it using the folder paths referenced in the file.
+- **HTML5** – Website structure.
+- **CSS3** – Styling, responsive layouts and animations.
+- **JavaScript** – Interactive features, booking system and shopping cart.
+- **Google Fonts** – Typography.
+- **WhatsApp Integration** – Appointment requests and product orders.
+- **Google Maps** – Business location and customer reviews.
 
-The downloadable HTML is separate from the Framer canvas and is not automatically installed or published in the Framer project.
+## 📱 Responsive Design
 
-## Recommended checks before launch
+The website is designed to work across:
 
-- Test on desktop and mobile.
-- Confirm all service prices.
-- Test WhatsApp booking and cart messages.
-- Check each social link.
-- Verify photo and video loading and muted playback.
-- Add the shop address and opening hours.
-- Confirm permission to publish all media.
+- Desktop computers.
+- Laptops.
+- Tablets.
+- Mobile phones.
 
-## Technical overview
+## 📂 Project Structure
 
-- Standalone HTML with embedded CSS and JavaScript.
-- No build step required.
-- Cart contents are stored in the visitor’s browser.
-- No custom backend or payment gateway.
+```text
+MD-HILMI-BARBER-SHOP/
+│
+├── index.html
+└── README.md
+```
+
+The website is currently built as a standalone HTML file, with its styling and JavaScript integrated into the page.
+
+## 🚀 Deployment
+
+The website can be hosted using:
+
+- GitHub Pages
+- Netlify
+- Vercel
+- Cloudflare Pages
+
+### Deploy using GitHub Pages
+
+1. Upload `index.html` and `README.md` to a GitHub repository.
+2. Open repository Settings.
+3. Select Pages.
+4. Choose the main branch.
+5. Save your settings.
+6. Your website will be published.
+
+## 🎯 Project Goal
+
+The goal of this project is to establish a strong online presence for MD HILMI BARBER SHOP, showcase its services, make appointment requests easier and allow customers to explore available products.
+
+**Built with attention to detail, performance and customer experience.**
+
+---
+
+© 2026 MD HILMI BARBER SHOP. All Rights Reserved.
